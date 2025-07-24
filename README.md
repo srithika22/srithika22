@@ -5,7 +5,7 @@ Welcome! I’m Sri Rithika, a student passionate about Java, Python programming,
 ## 🚀 About Me
 
 - **Current Focus:** Python, AI agents, automations, and ML.
-- **Interests:** Bookmates, AI/ML communities, automation tools, and open-source projects.
+- **Interests:** AI/ML communities, automation tools, and open-source projects.
 - **Learning:** Always exploring new AI frameworks, libraries, and collaborative projects.
 
 ## 🛠️ Skills
